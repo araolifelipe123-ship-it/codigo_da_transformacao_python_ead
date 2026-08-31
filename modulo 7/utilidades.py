@@ -55,6 +55,8 @@ def resto_divisao(a, b):
         return "erro: divisao por zero nao e permitida."
     return a % b
 
+
+
 def potencia(base, expoente):
     """
     

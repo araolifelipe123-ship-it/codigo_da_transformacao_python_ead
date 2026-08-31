@@ -11,6 +11,7 @@ num1 = 10
 num2 = 5
 
 
+
 print('teste de utilidades')
 print(f'numeros utilizados: {num1} e {num2}')
 
